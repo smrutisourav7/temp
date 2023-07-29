@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Blue Apron
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Blue Apron meal delivery services offer meal kits with fresh ingredients. Learn about our healthy food delivery & the options for home delivered meals.
 
-## Available Scripts
+# Screenshots
 
-In the project directory, you can run:
+![](https://github.com/smrutisourav7/gitone/assets/138769321/2a134d60-0244-4222-bdb6-c9b3a56915e2)
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/9eb2645d-47f6-4a53-938c-8d67db5dd165)
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/bd4fffcf-b4e9-4cca-8b62-2ea398c894e2)
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/a713cd67-a19e-4191-8866-95948394ba07)
 
-### `npm start`
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/9e3df822-1cf3-4f17-bb78-31cabcb5ab93)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/81bbdd21-84ba-46e0-bc9d-18999a1592c2)
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/029511fb-dd4d-4434-978a-93db72fa80c6)
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/b9b06250-c94e-4776-b011-024d27d4a362)
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/a96b48a6-5a07-47fb-81c6-f139f39fd43c)
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/7846954a-b3ac-418f-90c1-f5ac1e58c38e)
+![](https://github.com/smrutisourav7/tutorial/assets/138769321/9c4a72ef-3198-4431-85a3-5de546cc9ab0)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Team members
+#Surya Prasad Sahoo (LEADER)
+#Ankit Kumar
+#Abhisek Sahu
+#Subham Raj
+#Smruti Sourav Panda
+#Jayashree Sahu
