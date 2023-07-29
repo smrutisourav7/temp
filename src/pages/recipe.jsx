@@ -10,7 +10,7 @@ import RecipeTitle from './RecipeTitle';
 import Navbar from '../components/navbar';
 
 function Recipe() {
-  const [query, setquery] = useState("pizza");
+  const [query, setquery] = useState("mango");
   const [recipes, setrecipes] = useState([]);
   // const [healthLabels, sethealthLabels] = useState("")
   // const [search, setSearch] = useState("")
